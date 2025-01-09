@@ -58,9 +58,9 @@ export default function FAQ() {
         
         {/* Methodology Section */}
         <div className="bg-white rounded-lg p-6 mb-12 shadow-sm">
-          <h3 className="text-xl font-semibold mb-4">Unsere Methodik</h3>
+          <h3 className="text-xl font-semibold mb-4">Methodik</h3>
           <p className="text-gray-600">
-            Für dieses Projekt haben wir einen innovativen KI-gestützten Ansatz gewählt:
+            Für dieses Projekt wurde KI-gestützter Ansatz gewählt:
           </p>
           <ol className="list-decimal list-inside mt-4 space-y-2 text-gray-600">
             <li>Die offiziellen Wahlprogramme der Parteien wurden in ChatGPT eingespeist</li>
