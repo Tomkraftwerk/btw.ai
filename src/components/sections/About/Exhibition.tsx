@@ -30,7 +30,7 @@ export default function Exhibition() {
 
         <p>
           Das Angebot zur Ausstellung besteht weiterhin. Die Druckdaten und eine Anleitung zur Durchführung einer solchen
-          Vernissage können gerne per Mail angefordert werden.
+          Vernissage können kostenlos bereitgestellt werden.
         </p>
         <p className="font-medium">
          Du möchtest die Bilder ausstellen und Menschen zusammenbringen, um über die Zukunft zu sprechen? Schreib mir gern eine{' '}
