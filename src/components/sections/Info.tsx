@@ -32,7 +32,8 @@ export default function Info() {
 
         <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-8">
           <p className="text-yellow-700">
-            <strong>Wichtiger Hinweis:</strong> Die dargestellten Bilder stellen keine Wahlempfehlung dar. 
+            <strong>Disclaimer:</strong> Die dargestellten Bilder stellen keine Wahlempfehlung dar.
+            KI bildet nicht die Realität ab und kann zudem Fehler machen.
             Bitte setze dich mit den konkreten Forderungen der Parteien zur Bundestagswahl 
             auseinander und informiere dich umfassend. Einige Link-Vorschläge dazu findest du unten.
           </p>
