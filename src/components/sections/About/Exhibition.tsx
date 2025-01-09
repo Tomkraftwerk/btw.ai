@@ -6,10 +6,9 @@ export default function Exhibition() {
       <h3 className="text-xl font-semibold mb-4">KI-Vernissage & Ausstellungen</h3>
       <div className="space-y-4">
         <p>
-          Die KI-generierten Bilder wurden bereits im Rahmen der Landtagswahl in Brandenburg
-          in Form einer KI-Vernissage in Luckenwalde und Dahme (Mark) ausgestellt. Dabei wurden
-          Passanten und Schulklassen durch die Ausstellung geführt und konnten gemeinsam über
-          die "Zukunftsvisionen" diskutieren.
+          Das KI-Projekt wurde erstmals zur Europawahl durchgeführt und im Anschluss für die Bundestagswahl neu aufgesetzt.
+          Die Bilder wurden damals nicht nur online, sondern auch offline in Form einer "KI-Vernissage" gezeigt. Dabei wurden
+          Passanten und Schulklassen durch die Ausstellung geführt und konnten gemeinsam über die "Zukunftsvisionen" diskutieren.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
@@ -30,19 +29,18 @@ export default function Exhibition() {
         </div>
 
         <p>
-          Diese Möglichkeit besteht weiterhin. Falls Du die
-          Bilder selbst ausstellen möchtest, schreib uns einfach und wir stellen dir kostenlos die Druckdaten und eine
-          Anleitung zur Verfügung.
+          Das Angebot zur Ausstellung besteht weiterhin. Die Druckdaten und eine Anleitung zur Durchführung einer solchen
+          Vernissage können gerne per Mail angefordert werden.
         </p>
         <p className="font-medium">
-          Interessiert? Kontaktiere uns per{' '}
+         Du möchtest die Bilder ausstellen und Menschen zusammenbringen, um über die Zukunft zu sprechen? Schreib mir gern eine{' '}
           <a 
             href="mailto:hallo@bundestagswahl.ai"
             className="text-blue-600 hover:text-blue-800"
           >
             E-Mail
           </a>
-          {' '}oder über Social-Media.
+          {' '}oder kontaktiere mich über Social-Media.
         </p>
       </div>
     </div>
