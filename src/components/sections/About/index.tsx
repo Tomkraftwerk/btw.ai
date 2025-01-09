@@ -19,8 +19,17 @@ export default function About() {
             Zukunft zu befassen. Deine Stimme bei der Wahl und Deine politische Beteiligung im Allgemeinen 
             sind wichtige Instrumente, um unsere Zukunft aktiv mitzugestalten.
           </p>
-
+          
+        <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-8">
+          <p className="text-yellow-700">
+            <strong>Disclaimer:</strong> Die dargestellten Bilder stellen keine Wahlempfehlung dar.
+            KI bildet nicht die Realität ab und kann zudem Fehler machen.
+            Bitte setze dich mit den konkreten Forderungen der Parteien zur Bundestagswahl 
+            auseinander und informiere dich umfassend. Einige Link-Vorschläge dazu findest du unten.
+          </p>
+        </div>
           <div className="bg-gray-50 p-6 rounded-lg my-8">
+            
             <p className="font-medium text-gray-900 mb-4">
               Wichtig zu beachten:
             </p>
