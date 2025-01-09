@@ -30,14 +30,7 @@ export default function Info() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6">
         <h2 className="text-3xl font-bold mb-8">Informiere Dich</h2>
 
-        <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-8">
-          <p className="text-yellow-700">
-            <strong>Disclaimer:</strong> Die dargestellten Bilder stellen keine Wahlempfehlung dar.
-            KI bildet nicht die Realität ab und kann zudem Fehler machen.
-            Bitte setze dich mit den konkreten Forderungen der Parteien zur Bundestagswahl 
-            auseinander und informiere dich umfassend. Einige Link-Vorschläge dazu findest du unten.
-          </p>
-        </div>
+
 
         <div className="grid gap-6 md:grid-cols-2">
           {resources.map((resource) => (
