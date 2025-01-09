@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+auptimport React, { useState } from 'react';
 import { ChevronDown, ChevronUp } from 'lucide-react';
 
 interface FAQItemProps {
@@ -64,8 +64,10 @@ export default function FAQ() {
           </p>
           <ol className="list-decimal list-inside mt-4 space-y-2 text-gray-600">
             <li>Die offiziellen Wahlprogramme der Parteien wurden in ChatGPT eingespeist</li>
-            <li>Wir fragten: "Wie würde unsere Zukunft aussehen, wenn 100% der Inhalte dieses Programms umgesetzt würden?"</li>
+            <li>Der Haupt-Prompt war: "Wie würde unsere Zukunft aussehen, wenn 100% der Inhalte dieses Programms umgesetzt werden?"</li>
             <li>Die resultierenden Beschreibungen wurden verwendet, um mit DALL-E die entsprechenden Visualisierungen zu generieren</li>
+            <li>Manchmal gab ChatGPT einen Error zurück oder verbaute Artefakte in den Bildern, in diesen Fällen wurde der Prompt wiederholt.</li>
+            
           </ol>
         </div>
 
