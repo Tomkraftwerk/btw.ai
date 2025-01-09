@@ -4,7 +4,7 @@ import { ExternalLink } from 'lucide-react';
 const resources = [
   {
     title: "Wahlprogramme der Parteien",
-    url: "https://www.bundestagswahl-2025.de/wahlprogramme",
+    url: "https://www.bundestagswahl-bw.de/bundestagswahl-wahlprogramme",
     description: "Offizielle Wahlprogramme aller Parteien zur Bundestagswahl"
   },
   {
@@ -33,8 +33,8 @@ export default function Info() {
         <div className="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-8">
           <p className="text-yellow-700">
             <strong>Wichtiger Hinweis:</strong> Die dargestellten Bilder stellen keine Wahlempfehlung dar. 
-            Wir empfehlen Dir dringend, Dich mit den konkreten Forderungen der Parteien zur Bundestagswahl 
-            auseinanderzusetzen und Dich umfassend zu informieren.
+            Bitte setze dich mit den konkreten Forderungen der Parteien zur Bundestagswahl 
+            auseinander und informiere dich umfassend. Einige Link-Vorschläge dazu findest du unten.
           </p>
         </div>
 
