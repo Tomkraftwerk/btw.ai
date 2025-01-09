@@ -20,17 +20,20 @@ export default function Team() {
             <h3 className="text-2xl font-semibold mb-4">Max Mundhenke</h3>
             <div className="prose prose-lg text-gray-600">
               <p>
-                Als selbstständiger KI-Berater und Entwickler sucht Max Mundhenke kontinuierlich nach 
-                sinnvollen Anwendungsfällen für künstliche Intelligenz. Mit seiner Erfahrung als 
-                ehemaliger Autor (unter dem Pseudonym Tom Kraftwerk) und Unternehmensberater für 
-                digitale Kommunikation verbindet er kreatives Denken mit technologischer Expertise.
+                Als selbstständiger KI-Berater und Entwickler suche ich kontinuierlich nach 
+                spannenden und nützlichen Anwendungsfällen für künstliche Intelligenz. 
+                Ich bin überzeugt davon, dass wir als Gesellschaft durch KI profitieren können
+                und möchte den Wandel positiv mitgestalten. Das versuche ich durch kreative KI-Projekte
+                wie dieses zu erreichen, aber auch mit Vorträgen und Workshops. Kommt bei Interesse
+                gerne auf mich zu, per Mail oder in den Sozialen Medien.
               </p>
               <p>
-                Dieses ehrenamtliche Projekt ist ein Beispiel dafür, wie KI genutzt werden kann, 
+                Das ehrenamtliche Projekt "bundestagswahl.ai" ist ein Beispiel dafür, wie KI genutzt werden kann, 
                 um komplexe politische Inhalte zugänglich zu machen und Menschen zu einer 
-                informierten politischen Teilhabe zu motivieren. Seine Arbeit konzentriert sich 
+                informierten politischen Teilhabe zu motivieren. Meine Arbeit konzentriert sich 
                 darauf, Brücken zwischen technologischen Möglichkeiten und gesellschaftlichem 
-                Nutzen zu bauen.
+                Nutzen zu bauen. Mehr Informationen und Beispiele für die Nutzung von KI findet ihr
+                in meinem <a href="https://linktr.ee/tomkraftwerk">Linktree</a>.
               </p>
             </div>
             
